@@ -8,7 +8,7 @@
 ## Introdução
 
 Este e-book faz parte de um experimento narrativo.  
-Ao longo da história, alguns parágrafos foram escritos por um humano e outros foram gerados por uma IA.  
+Ao longo da história, alguns parágrafos foram escritos por um humano e outros foram gerados por uma IA.
 
 Durante a leitura, não há indicação explícita de autoria.  
 A revelação acontece apenas ao final.
@@ -41,6 +41,8 @@ Mais tarde, já deitado, abriu o celular sem um objetivo claro. Encontrou uma co
 
 Digitou duas linhas, apagou uma. Releu. Achou estranho. Bloqueou a tela e deixou o celular ao lado da cama, virado para baixo.
 
+Ficou olhando para o teto por alguns instantes, tentando decidir se aquilo realmente importava. A mensagem continuava ali, mesmo sem ser enviada, ocupando um espaço que ele não sabia exatamente como liberar.
+
 Quando voltou a olhar, alguns minutos depois, a mensagem ainda estava lá. Não mudou nada. Ele fechou o aplicativo sem enviar e colocou o celular no chão, fora do alcance da mão.
 
 ---
@@ -49,32 +51,31 @@ Quando voltou a olhar, alguns minutos depois, a mensagem ainda estava lá. Não 
 
 No dia seguinte, saiu um pouco mais cedo do trabalho. Despediu-se de poucas pessoas, pegou a mochila e deixou alguns objetos na mesa. Não fazia sentido carregar tudo.
 
-O elevador demorou mais do que o normal. Ele ficou olhando para o painel, sem pensar em nada específico. Quando a porta abriu, atravessou a rua sem olhar para trás.
-
-Não havia sensação de alívio nem de perda clara. Apenas a impressão de que algo tinha sido encerrado sem precisar de anúncio.
+Não havia sensação de alívio nem de perda clara. Apenas a impressão de que algo tinha sido encerrado sem precisar de anúncio. Depois atravessou a rua e foi embora.
 
 ---
 
 ## Revelação – Natty ou Fake?
 
-Abaixo está a revelação dos parágrafos:
+Abaixo está a revelação da autoria dos parágrafos:
 
 ### ✍️ Escritos por HUMANO
 - Capítulo 1: Parágrafos 1 e 2  
 - Capítulo 2: Parágrafo 1  
-- Capítulo 3: Parágrafos 1 e 2  
+- Capítulo 3: Parágrafos 1, 2 e 4  
 - Capítulo 4: Parágrafo 1  
 
 ### 🤖 Gerados por IA
 - Capítulo 1: Parágrafo 3  
 - Capítulo 2: Parágrafos 2 e 3  
+- Capítulo 3: Parágrafo 3  
 - Capítulo 4: Parágrafo 2  
 
 ---
 
 ## Observação Final
 
-Os parágrafos gerados por IA foram criados com prompts voltados à simplicidade, evitando explicações emocionais explícitas e abstrações excessivas.  
-Já os trechos humanos buscaram manter o mesmo tom neutro, cotidiano e incompleto.
+Os parágrafos gerados por IA foram criados com prompts voltados à simplicidade, evitando abstrações excessivas e explicações emocionais explícitas.  
+Os trechos humanos buscaram manter o mesmo tom neutro, cotidiano e incompleto.
 
-O objetivo não é provar que a IA escreve melhor ou pior, mas mostrar como a fronteira entre o “natural” e o “artificial” pode se tornar difícil de identificar quando o foco está no comum.
+O objetivo deste experimento não é comparar qualidade, mas demonstrar como a fronteira entre o “natural” e o “artificial” pode se tornar sutil quando o foco está no comum.
