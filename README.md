@@ -8,9 +8,11 @@ A proposta consiste na criação de um **e-book com uma história curta realista
 ---
 
 ## 🤖 Tecnologias Utilizadas
-- ChatGPT (IA Generativa de Texto)
+- [ChatGPT](https://chat.openai.com/) (IA Generativa de Texto e Imagem)
 - Markdown
 - GitHub
+
+> A capa do e-book também foi criada utilizando o **ChatGPT**, explorando geração de imagem com foco estético e narrativo.
 
 ---
 
